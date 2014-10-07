@@ -1,4 +1,4 @@
-** SIO2109
+SIO2109
 *ATANGANE
-Exercice 6
-==========
+**Exercice 6
+
